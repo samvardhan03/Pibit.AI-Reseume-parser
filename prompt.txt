@@ -1,0 +1,52 @@
+You are a professional resume parser. Given the following resume, convert the content into JSON format. Make sure to structure the JSON with relevant sections such as contact information, education, work experience, skills, and certifications.
+
+Here is the resume:
+
+[Insert Resume Text Here]
+
+Please provide the parsed resume in the following JSON format:
+{
+  "contact_information": {
+    "name": "Your Name",
+    "address": "Your Address",
+    "phone": "Your Phone Number",
+    "email": "Your Email Address",
+    "linkedin": "Your LinkedIn URL"
+  },
+  "education": [
+    {
+      "degree": "Degree",
+      "institution": "Institution",
+      "graduation_year": "Year"
+    }
+   
+  ],
+  "work_experience": [
+    {
+      "job_title": "Job Title",
+      "company": "Company",
+      "start_date": "Start Date",
+      "end_date": "End Date",
+      "responsibilities": [
+        "Responsibility 1",
+        "Responsibility 2"
+        
+      ]
+    }
+
+  ],
+  "skills": [
+    "Skill 1",
+    "Skill 2"
+ \
+  ],
+  "certifications": [
+    {
+      "certification": "Certification Name",
+      "issuing_organization": "Issuing Organization",
+      "issue_date": "Issue Date"
+    }
+ 
+  ]
+}
+
