@@ -1,0 +1,97 @@
+{
+  "contact_information": {
+    "name": "Samvardhan Singh",
+    "address": "Jaipur, India",
+    "phone": "",
+    "email": "",
+    "linkedin": ""
+  },
+  "education": [
+    {
+      "degree": "B.Tech in Electronics and Computer Engineering",
+      "institution": "SRM Institute of Science and Technology, Chennai, India",
+      "graduation_year": "March 2021 - Present"
+    },
+    {
+      "degree": "Class XII, CBSE",
+      "institution": "JPHS, Jaipur, India",
+      "graduation_year": "March 2020"
+    }
+  ],
+  "work_experience": [
+    {
+      "job_title": "Data Science Intern",
+      "company": "Coders Cave",
+      "start_date": "August 2023",
+      "end_date": "September 2023",
+      "responsibilities": [
+        "Performed exploratory data analysis on global terrorism dataset and breast cancer classification using regression techniques.",
+        "Used random forest classification for email spam classification model and neural networks for speech emotion recognition model."
+      ]
+    }
+  ],
+  "skills": [
+    "AI powered chatbot development",
+    "Natural Language Processing (NLP)",
+    "Neural Networks",
+    "Deep Learning",
+    "Machine Learning",
+    "Data Science"
+  ],
+  "certifications": [
+    {
+      "certification": "Coder's Cave Internship Program",
+      "issuing_organization": "Coders Cave",
+      "issue_date": "September 2023"
+    },
+    {
+      "certification": "IBM Data Science",
+      "issuing_organization": "IBM",
+      "issue_date": "July 2023"
+    },
+    {
+      "certification": "Introduction to Data Analytics",
+      "issuing_organization": "Unknown",
+      "issue_date": "January 2023"
+    },
+    {
+      "certification": "IoT Internship Training by Acmegrade",
+      "issuing_organization": "Acmegrade",
+      "issue_date": "June 2022"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Sales Prediction Model",
+      "description": "Developed a model for predicting sales trends using machine learning techniques."
+    },
+    {
+      "title": "S.A.I.L (Student Assistance and Information Liaison)",
+      "description": "Created an emotion prediction model using EEG analysis."
+    },
+    {
+      "title": "Stock Prediction Neural Network Model",
+      "description": "Implemented a neural network model to predict stock market trends."
+    },
+    {
+      "title": "Student Portal Chatbot",
+      "description": "Developed an AI-powered chatbot for a college student portal using NLP and neural networks."
+    },
+    {
+      "title": "AI Research Model",
+      "description": "Conducted individual research on AI models."
+    }
+  ],
+  "research_work": [
+    {
+      "event": "ICONSCEPT 2024",
+      "topics": ["Deep Learning", "Data Science", "Neuroscience"],
+      "description": "Explored AI for predicting emotional fluctuations from EEG scans, built a prototype ML model using neural networks with a 93% accuracy, and presented the paper at the International conference on signal processing, computation, electronics, power and telecommunication held on 4 July 2024 in the National Institute of Technology, Puducherry."
+    },
+    {
+      "event": "ITDECC-2023",
+      "topics": ["Machine Learning", "Data Science"],
+      "description": "Wrote and presented a paper on the implementation of machine learning algorithms in data science at an international conference on 'Innovations and Technological development in electronics, computers and communication' held at SRM Institute of Science and Technology, Ramapuram."
+    }
+  ]
+}
